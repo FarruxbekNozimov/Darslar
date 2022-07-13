@@ -1,0 +1,1 @@
+def is_prime(num):    for i in range(2, int(num ** 0.5) + 1):        if num % i == 0:            return False    return Truedef len_num(number):    return len(list(number))def reverse_num(number):    return int(''.join(list(map(str, list(number)))[::-1]))

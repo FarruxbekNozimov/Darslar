@@ -1,0 +1,1 @@
+class Rectangle:    def __init__(self, width, height):        self.width = width        self.height = height    def get_area(self):        print(self.width * self.height)    def get_perimeter(self):        print(2 * (self.width + self.height))square = Rectangle(2, 2)square.get_area()square.get_perimeter()

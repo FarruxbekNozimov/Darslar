@@ -1,0 +1,1 @@
+class Car:    def __init__(self):        self.__model = "Sedam"        self.__petrol = True        self.__engine = 1000    def set_info(self, model, petrol, engine):        self.__model = model        self.__petrol = petrol        self.__engine = engine    def get_info(self):        print(self.__model, self.__engine, self.__petrol)

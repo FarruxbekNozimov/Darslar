@@ -1,0 +1,1 @@
+# print(''.join(input("Enter a word: ").split(" ")))print(input('Word => ').replace(' ', ''))

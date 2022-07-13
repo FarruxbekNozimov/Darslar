@@ -1,0 +1,6 @@
+modeli,videokarta,protsessor,operativka,monitor,narxi
+Acer,videokarta,protsessor,operativka,monitor,2
+Asus,protsessor,operativka,monitor,3
+Mac,videokarta,operativka,monitor,5
+Lenovo,protsessor,operativka,monitor,4
+Hp,protsessor,operativka,monitor,4

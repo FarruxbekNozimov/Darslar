@@ -1,0 +1,1 @@
+text_label = '854'text_label = '-' + text_label[:]print(text_label)

@@ -1,0 +1,1 @@
+class Father:    def __init__(self, name):        self.__name = namePerson = Father("Ga'nisher")print(Person.__name)

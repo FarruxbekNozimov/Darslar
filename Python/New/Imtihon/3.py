@@ -1,0 +1,1 @@
+# ====================== TASK 3 ======================# LIST IN LISTlst = [1, 2, [3, 4, [5, 6, [7, 8, [9, 10], [12, 23], ]]], [12, 39]]print(list(map(int, str(lst).replace('[', '').replace(']', '').replace(',', '').split())))

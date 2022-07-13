@@ -1,0 +1,1 @@
+print(input("Word => ").count("a"))

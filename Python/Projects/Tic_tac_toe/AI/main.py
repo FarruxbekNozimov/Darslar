@@ -1,0 +1,1 @@
+def find_humans(number):    for i in range(number):        if (i - 1) * i /2 == number:            print(i)find_humans(int(input("=> ")))

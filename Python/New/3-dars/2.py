@@ -1,0 +1,1 @@
+class Human:    def __init__(self, name):        self.name = name    def kick(self, kartoshka):        print(f"{self.name} kicked")        kartoshka.fly()class  Ball:    def fly(self):        print("Ball is flying")Farrukh = Human("Farrukh")Reks = Ball()Farrukh.kick(Reks)

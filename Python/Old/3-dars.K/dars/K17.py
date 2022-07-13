@@ -1,0 +1,1 @@
+print("Son" if input("Enter a word: ").isdigit() else "Son emas")

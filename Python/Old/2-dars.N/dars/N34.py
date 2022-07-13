@@ -1,0 +1,1 @@
+print(max(input("Enter a word: ").split(), key=len))

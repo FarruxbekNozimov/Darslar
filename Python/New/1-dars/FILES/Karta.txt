@@ -1,0 +1,1001 @@
+Karta_raqami,Karta_turi,Valyuta,Valyuta_kodi,Korxona,Davlat
+670967251010757565,laser,Baht,THB,Multi-Sector Companies,Thailand
+3530312993104845,jcb,Zloty,PLN,n/a,Poland
+6331104187702896,switch,Peso,PHP,Major Banks,Philippines
+3536721415056124,jcb,Yuan Renminbi,CNY,Other Consumer Services,China
+5100141794742734,mastercard,Rupiah,IDR,n/a,Indonesia
+337941796380540,americanexpress,Yuan Renminbi,CNY,n/a,China
+4533296937432,visa,Dollar,TTD,Investment Bankers/Brokers/Service,Trinidad and Tobago
+5100176482862600,mastercard,Pound,SYP,Commercial Banks,Syria
+5048370586407421,mastercard,Zloty,PLN,Real Estate Investment Trusts,Poland
+3566773690474798,jcb,Yuan Renminbi,CNY,n/a,China
+4913232326281349,visa-electron,Yuan Renminbi,CNY,Shoe Manufacturing,China
+3540984012222291,jcb,Krona,SEK,Biotechnology: In Vitro & In Vivo Diagnostic Substances,Sweden
+3532883208369538,jcb,Euro,EUR,Auto Parts:O.E.M.,Ireland
+5641824455330467040,switch,Yuan Renminbi,CNY,EDP Services,China
+6759069398612437,maestro,Peso,MXN,Biotechnology: Biological Products (No Diagnostic Substances),Mexico
+3553221720573804,jcb,Rupiah,IDR,n/a,Indonesia
+5207873860232669,mastercard,Euro,EUR,Major Pharmaceuticals,Italy
+3562848883056000,jcb,Kwacha,ZMW,n/a,Zambia
+3581353798652230,jcb,Zloty,PLN,Catalog/Specialty Distribution,Poland
+3552297719074492,jcb,Dinar,RSD,Specialty Insurers,Serbia
+3545191144976357,jcb,Ariary,MGA,Catalog/Specialty Distribution,Madagascar
+5100170509141536,mastercard,Rupiah,IDR,n/a,Indonesia
+3578351917551973,jcb,Peso,PHP,n/a,Philippines
+3556078393677495,jcb,Dinar,TND,Major Pharmaceuticals,Tunisia
+30514536522414,diners-club-carte-blanche,Real,BRL,Telecommunications Equipment,Brazil
+5602221718889823033,china-unionpay,Euro,EUR,n/a,Germany
+3554555535067596,jcb,Ruble,RUB,EDP Services,Russia
+3546449602483244,jcb,Yuan Renminbi,CNY,n/a,China
+4017951972219726,visa,Denar,MKD,Major Pharmaceuticals,Macedonia
+5100138997843475,mastercard,Yuan Renminbi,CNY,Containers/Packaging,China
+201715912686102,diners-club-enroute,Rupiah,IDR,Major Pharmaceuticals,Indonesia
+5602258530334916,bankcard,Euro,EUR,Major Banks,France
+3578022003855293,jcb,Pound,GBP,Commercial Banks,United Kingdom
+3585926964717642,jcb,Hryvnia,UAH,Shoe Manufacturing,Ukraine
+3537960886825497,jcb,Ruble,RUB,Major Banks,Russia
+3537679013459166,jcb,Bolivar,VEF,Banks,Venezuela
+201598122457500,diners-club-enroute,Hryvnia,UAH,n/a,Ukraine
+4405464668624126,visa-electron,Ruble,RUB,Banks,Russia
+5424056518727465,diners-club-us-ca,Krona,SEK,Catalog/Specialty Distribution,Sweden
+374283354293979,americanexpress,Rupiah,IDR,Containers/Packaging,Indonesia
+30095121652493,diners-club-carte-blanche,Koruna,CZK,Natural Gas Distribution,Czech Republic
+374288506798304,americanexpress,Peso,ARS,Metal Fabrications,Argentina
+3545548551333606,jcb,Yuan Renminbi,CNY,n/a,China
+4405120647060267,visa-electron,Ruble,RUB,Natural Gas Distribution,Russia
+4913204177792880,visa-electron,Peso,ARS,Real Estate Investment Trusts,Argentina
+3589525545165838,jcb,Peso,CLP,Industrial Machinery/Components,Chile
+3574992917824912,jcb,Baht,THB,Other Specialty Stores,Thailand
+3563937972019141,jcb,Dollar,NAD,Other Consumer Services,Namibia
+3582669920409580,jcb,Krona,SEK,Hospital/Nursing Management,Sweden
+3580252071513492,jcb,Pound,EGP,n/a,Egypt
+3576155861809705,jcb,Peso,COP,Biotechnology: Biological Products (No Diagnostic Substances),Colombia
+6375280414947103,instapayment,Rupiah,IDR,Major Banks,Indonesia
+4175004889598077,visa-electron,Naira,NGN,Radio And Television Broadcasting And Communications Equipment,Nigeria
+560225594939970814,china-unionpay,Lari,GEL,Steel/Iron Ore,Georgia
+3574974757727819,jcb,Real,BRL,Industrial Specialties,Brazil
+372301177290683,americanexpress,Hryvnia,UAH,n/a,Ukraine
+3531714102754940,jcb,Rupiah,IDR,EDP Services,Indonesia
+3579383095567397,jcb,Pound,SDG,n/a,Sudan
+36370879243538,diners-club-international,Yuan Renminbi,CNY,n/a,China
+3543979624740075,jcb,Yuan Renminbi,CNY,Finance: Consumer Services,China
+56022395965742489,china-unionpay,Shekel,ILS,Paper,Israel
+201411005346933,diners-club-enroute,Yuan Renminbi,CNY,Restaurants,China
+3529200176255356,jcb,Yuan Renminbi,CNY,Telecommunications Equipment,China
+3585403443251957,jcb,Ruble,RUB,Metal Fabrications,Russia
+3563423804915749,jcb,Yuan Renminbi,CNY,Major Banks,China
+5602221633778439,bankcard,Ruble,RUB,Real Estate Investment Trusts,Russia
+3588550187002207,jcb,Euro,EUR,n/a,France
+5539604945412508,mastercard,Zloty,PLN,n/a,Poland
+6709824158890503,laser,Peso,PHP,Restaurants,Philippines
+5602240432454679,bankcard,Euro,EUR,Industrial Machinery/Components,Portugal
+502084000708040559,maestro,Yuan Renminbi,CNY,n/a,China
+3578231815139263,jcb,Rupee,LKR,Major Chemicals,Sri Lanka
+3569423071466594,jcb,Euro,EUR,Major Pharmaceuticals,Greece
+3556961949584507,jcb,Yuan Renminbi,CNY,n/a,China
+3537300296646094,jcb,Yuan Renminbi,CNY,n/a,China
+5439887878567239,diners-club-us-ca,Rand,ZAR,Biotechnology: Laboratory Analytical Instruments,South Africa
+3563934317811936,jcb,Tugrik,MNT,Radio And Television Broadcasting And Communications Equipment,Mongolia
+6709558376035595552,laser,Euro,EUR,Oil & Gas Production,Ireland
+3580126562346077,jcb,Yuan Renminbi,CNY,Construction/Ag Equipment/Trucks,China
+3575799878226162,jcb,Yuan Renminbi,CNY,EDP Services,China
+67626738282154820,maestro,Euro,EUR,Coal Mining,Spain
+3528431780502351,jcb,Yuan Renminbi,CNY,n/a,China
+3583246061128987,jcb,Peso,PHP,Major Banks,Philippines
+201675985461314,diners-club-enroute,Yuan Renminbi,CNY,n/a,China
+4041375290780,visa,Dollar,CAD,n/a,Canada
+3535955710944763,jcb,Peso,PHP,Investment Bankers/Brokers/Service,Philippines
+3541382725221230,jcb,Zloty,PLN,Restaurants,Poland
+5602212481942912,bankcard,Lek,ALL,Real Estate Investment Trusts,Albania
+3575154385741479,jcb,Peso,ARS,Electric Utilities: Central,Argentina
+376443213934639,americanexpress,Rupiah,IDR,EDP Services,Indonesia
+3579946400218714,jcb,Krona,SEK,Other Consumer Services,Sweden
+3580772877066015,jcb,Sol,PEN,Major Banks,Peru
+5501809683867003,mastercard,Yuan Renminbi,CNY,n/a,China
+5602244147859008,bankcard,Euro,EUR,Computer Software: Prepackaged Software,Luxembourg
+4938336561839,visa,Peso,COP,n/a,Colombia
+3541899924702900,jcb,Dollar,LRD,Medical Specialities,Liberia
+5366301264761551,mastercard,Franc,GNF,Major Banks,Guinea
+3566672374423925,jcb,Baht,THB,Major Banks,Thailand
+3570372180405356,jcb,Real,BRL,Investment Managers,Brazil
+30557875777602,diners-club-carte-blanche,Koruna,CZK,Major Banks,Czech Republic
+6709793969083691,laser,Yuan Renminbi,CNY,n/a,China
+3539187000444447,jcb,Shekel,ILS,Oil & Gas Production,Israel
+3553603731572398,jcb,Rupiah,IDR,Semiconductors,Indonesia
+3563904648149603,jcb,Euro,EUR,Steel/Iron Ore,Portugal
+3567102370639174,jcb,Franc,XOF,Computer Software: Prepackaged Software,Benin
+4405042200116395,visa-electron,Real,BRL,Oil & Gas Production,Brazil
+5007669448757868,mastercard,Rupee,PKR,n/a,Pakistan
+6759566586450025,maestro,Won,KRW,n/a,South Korea
+5602253536909340,bankcard,Euro,EUR,Department/Specialty Retail Stores,Ireland
+3539780370435084,jcb,Koruna,CZK,Major Pharmaceuticals,Czech Republic
+3563678656869118,jcb,Kyat,MMK,Finance: Consumer Services,Myanmar
+5602243304181362,china-unionpay,Yuan Renminbi,CNY,Biotechnology: In Vitro & In Vivo Diagnostic Substances,China
+3560435216325294,jcb,Peso,CUP,Investment Managers,Cuba
+3542738453933008,jcb,Yuan Renminbi,CNY,Major Banks,China
+3563618396447536,jcb,Peso,COP,n/a,Colombia
+201968836065214,diners-club-enroute,Euro,EUR,n/a,Portugal
+201722801024734,diners-club-enroute,Ruble,RUB,n/a,Russia
+502061795651727303,maestro,Ruble,RUB,Major Banks,Russia
+3530272871996151,jcb,Shilling,SOS,n/a,Somalia
+3529337765384120,jcb,Euro,EUR,Other Consumer Services,France
+3537034281242508,jcb,Real,BRL,Coal Mining,Brazil
+201573885871783,diners-club-enroute,Yuan Renminbi,CNY,n/a,China
+4905367496436268588,switch,Baht,THB,Major Pharmaceuticals,Thailand
+67636312085564557,maestro,Real,BRL,Trucking Freight/Courier Services,Brazil
+3530565827886735,jcb,Yuan Renminbi,CNY,n/a,China
+4026245110593608,visa-electron,Yuan Renminbi,CNY,Military/Government/Technical,China
+3583153453684546,jcb,Rupiah,IDR,n/a,Indonesia
+4911068909305077,switch,Euro,EUR,Major Banks,Italy
+3570365328082988,jcb,Dollar,USD,Other Consumer Services,United States
+3548733086760187,jcb,Euro,EUR,Agricultural Chemicals,France
+564182013915859746,switch,Real,BRL,n/a,Brazil
+3557974427758971,jcb,Euro,EUR,Natural Gas Distribution,Spain
+3536608936117388,jcb,Somoni,TJS,Major Pharmaceuticals,Tajikistan
+3561262871191798,jcb,Dinar,RSD,Property-Casualty Insurers,Serbia
+6304295506730649548,laser,Dollar,USD,Computer peripheral equipment,United States
+5602258200398472,bankcard,Peso,COP,Shoe Manufacturing,Colombia
+4911233730981448306,switch,Lek,ALL,Precious Metals,Albania
+3559503397281116,jcb,Yuan Renminbi,CNY,Advertising,China
+3568673073524227,jcb,Yuan Renminbi,CNY,Auto Parts:O.E.M.,China
+201543408793442,diners-club-enroute,Naira,NGN,Telecommunications Equipment,Nigeria
+3547292322019354,jcb,Naira,NGN,Major Banks,Nigeria
+3554034657866201,jcb,Ruble,RUB,Electronic Components,Russia
+3567319520136568,jcb,Rupiah,IDR,Oil & Gas Production,Indonesia
+374622402743792,americanexpress,Tugrik,MNT,Marine Transportation,Mongolia
+6304038267152806007,laser,Ruble,RUB,Other Consumer Services,Russia
+3531866313181600,jcb,Krone,NOK,Medical/Dental Instruments,Norway
+0604838926830947,maestro,Dollar,ZWL,Biotechnology: Biological Products (No Diagnostic Substances),Zimbabwe
+3530937795020201,jcb,Yuan Renminbi,CNY,n/a,China
+3561164772375647,jcb,Boliviano,BOB,Auto Parts:O.E.M.,Bolivia
+50209395562200970,maestro,Krona,SEK,Business Services,Sweden
+5100137202422638,mastercard,Peso,PHP,Industrial Machinery/Components,Philippines
+3545799720080657,jcb,Rupiah,IDR,n/a,Indonesia
+5602258574157678,bankcard,Yuan Renminbi,CNY,Major Banks,China
+3574358362707764,jcb,Ruble,RUB,Medical Specialities,Russia
+3581604064967094,jcb,Euro,EUR,Real Estate Investment Trusts,Portugal
+4917514902107709,visa-electron,Ruble,RUB,Containers/Packaging,Russia
+560224688261216688,china-unionpay,Hryvnia,UAH,Food Distributors,Ukraine
+6759812021166442854,maestro,Peso,PHP,Hotels/Resorts,Philippines
+63043063357860639,laser,Hryvnia,UAH,Telecommunications Equipment,Ukraine
+36893087350001,diners-club-international,Som,UZS,Clothing/Shoe/Accessory Stores,Uzbekistan
+201872914288393,diners-club-enroute,Peso,PHP,Specialty Chemicals,Philippines
+3584237485360834,jcb,Yuan Renminbi,CNY,Semiconductors,China
+4917856402140668,visa-electron,Yuan Renminbi,CNY,Home Furnishings,China
+4345129297854948,visa,Shilling,TZS,Fluid Controls,Tanzania
+3544928178743281,jcb,Euro,EUR,n/a,Portugal
+3574264755693795,jcb,Yuan Renminbi,CNY,Industrial Machinery/Components,China
+5413791893135511,diners-club-us-ca,Ruble,RUB,Agricultural Chemicals,Russia
+6331106902069279,switch,Baht,THB,n/a,Thailand
+30261665523256,diners-club-carte-blanche,Euro,EUR,Military/Government/Technical,France
+5018243944339857,maestro,Peso,CUP,n/a,Cuba
+3535192171611778,jcb,Rupiah,IDR,Life Insurance,Indonesia
+201738671189092,diners-club-enroute,Dram,AMD,Major Pharmaceuticals,Armenia
+6372677891795454,instapayment,Yuan Renminbi,CNY,Natural Gas Distribution,China
+30401401617661,diners-club-carte-blanche,Baht,THB,Other Consumer Services,Thailand
+5038173970242111,maestro,Euro,EUR,Computer Software: Prepackaged Software,France
+3549259147997104,jcb,Yuan Renminbi,CNY,Medical/Dental Instruments,China
+5150290675677631,mastercard,Yuan Renminbi,CNY,Semiconductors,China
+3581102607912891,jcb,Peso,PHP,Other Consumer Services,Philippines
+201997577418092,diners-club-enroute,Yuan Renminbi,CNY,Major Banks,China
+3560908221190424,jcb,Yuan Renminbi,CNY,Medical Specialities,China
+5539216122176846,mastercard,Yuan Renminbi,CNY,Oil & Gas Production,China
+5555322320396985,diners-club-us-ca,Euro,EUR,n/a,Slovenia
+4041590153015683,visa,Dollar,CAD,Telecommunications Equipment,Canada
+676294328956045915,maestro,Yuan Renminbi,CNY,Major Banks,China
+3579220619020091,jcb,Escudo,CVE,n/a,Cape Verde
+3528627594538412,jcb,Dong,VND,Major Pharmaceuticals,Vietnam
+5602251013398292,bankcard,Yen,JPY,Major Banks,Japan
+633348405581096559,switch,Yuan Renminbi,CNY,n/a,China
+30350903401811,diners-club-carte-blanche,Peso,CLP,Real Estate Investment Trusts,Chile
+5602255226929499177,china-unionpay,Euro,EUR,Precious Metals,France
+3577707364192523,jcb,Yuan Renminbi,CNY,Specialty Chemicals,China
+201993744588271,diners-club-enroute,Rupiah,IDR,Computer Software: Prepackaged Software,Indonesia
+3531572406535435,jcb,Yuan Renminbi,CNY,n/a,China
+30460171332299,diners-club-carte-blanche,Rial,IRR,n/a,Iran
+3564844981053666,jcb,Ruble,RUB,Medical/Dental Instruments,Russia
+4017957537509,visa,Rupiah,IDR,Advertising,Indonesia
+675921274219848765,maestro,Yuan Renminbi,CNY,Department/Specialty Retail Stores,China
+6396336941145895,instapayment,Peso,PHP,Auto Parts:O.E.M.,Philippines
+58939775744284564,maestro,Euro,EUR,n/a,France
+3570922985743334,jcb,Denar,MKD,Apparel,Macedonia
+374288173412007,americanexpress,Real,BRL,Savings Institutions,Brazil
+374288059666171,americanexpress,Peso,ARS,Agricultural Chemicals,Argentina
+201939142128632,diners-club-enroute,Taka,BDT,n/a,Bangladesh
+3554996676974390,jcb,Peso,PHP,Electric Utilities: Central,Philippines
+201748384178225,diners-club-enroute,Yuan Renminbi,CNY,n/a,China
+6380359273881943,instapayment,Yuan Renminbi,CNY,Department/Specialty Retail Stores,China
+3573290265029114,jcb,Dollar,CAD,Major Banks,Canada
+56022324709077150,china-unionpay,Rupiah,IDR,Major Banks,Indonesia
+3583489250972647,jcb,Peso,PHP,Industrial Machinery/Components,Philippines
+4405198724420851,visa-electron,Real,BRL,n/a,Brazil
+4913921827786240,visa-electron,Euro,EUR,Investment Managers,France
+4041374700563788,visa,Yuan Renminbi,CNY,Oil & Gas Production,China
+3588600290240887,jcb,Hryvnia,UAH,Real Estate,Ukraine
+3579953441358889,jcb,Rial,YER,EDP Services,Yemen
+3572259934168125,jcb,Dollar,USD,n/a,United States
+4917557786150733,visa-electron,Hryvnia,UAH,Packaged Foods,Ukraine
+374288389701482,americanexpress,Yuan Renminbi,CNY,n/a,China
+201401022829268,diners-club-enroute,Yuan Renminbi,CNY,Real Estate Investment Trusts,China
+3572956825822914,jcb,Yuan Renminbi,CNY,n/a,China
+3529419512399054,jcb,Yuan Renminbi,CNY,Medical Specialities,China
+676164680325816260,maestro,Euro,EUR,n/a,France
+5100137681147383,mastercard,Yuan Renminbi,CNY,Major Pharmaceuticals,China
+3572700138720211,jcb,Yuan Renminbi,CNY,Medical/Dental Instruments,China
+3535366988029321,jcb,Krona,SEK,Telecommunications Equipment,Sweden
+30400945606164,diners-club-carte-blanche,Dollar,NZD,n/a,New Zealand
+3566545805773490,jcb,Bolivar,VEF,Computer Software: Prepackaged Software,Venezuela
+374288550467467,americanexpress,Yuan Renminbi,CNY,Electric Utilities: Central,China
+3558559534784181,jcb,Peso,PHP,Industrial Machinery/Components,Philippines
+502069152598518506,maestro,Yuan Renminbi,CNY,n/a,China
+3533155102188135,jcb,Franc,XAF,Other Specialty Stores,Cameroon
+560222376404082330,china-unionpay,Guarani,PYG,n/a,Paraguay
+5007669544563319,mastercard,Euro,EUR,Major Chemicals,France
+349776146696591,americanexpress,Dollar,JMD,Apparel,Jamaica
+5048372757070616,mastercard,Yuan Renminbi,CNY,Fluid Controls,China
+30573230364978,diners-club-carte-blanche,Ruble,RUB,Hotels/Resorts,Russia
+4913011635913788,visa-electron,Yuan Renminbi,CNY,Paints/Coatings,China
+5108756348035400,mastercard,Euro,EUR,Farming/Seeds/Milling,France
+3581862466269077,jcb,Koruna,CZK,Investment Managers,Czech Republic
+3568456840497384,jcb,Zloty,PLN,n/a,Poland
+3529797597316105,jcb,Euro,EUR,Forest Products,Portugal
+3555218232835844,jcb,Birr,ETB,n/a,Ethiopia
+201845639907588,diners-club-enroute,Euro,EUR,Semiconductors,France
+3563776110873427,jcb,Ruble,RUB,Power Generation,Russia
+374883420369750,americanexpress,Euro,EUR,Business Services,France
+5602255167149864,bankcard,Dollar,CAD,n/a,Canada
+3553951319999081,jcb,Ringgit,MYR,Major Chemicals,Malaysia
+5495032101190894,diners-club-us-ca,Gourde,HTG,Major Chemicals,Haiti
+6771956230877984,laser,Shekel,ILS,Electrical Products,Israel
+6709432128224529682,laser,Real,BRL,Major Banks,Brazil
+5007660766235314,mastercard,Peso,COP,Industrial Machinery/Components,Colombia
+6393054015903387,instapayment,Yen,JPY,Major Pharmaceuticals,Japan
+3562047064783926,jcb,Real,BRL,Finance: Consumer Services,Brazil
+3567095471365386,jcb,Dollar,CAD,Oil Refining/Marketing,Canada
+3540307842594947,jcb,Yuan Renminbi,CNY,Precious Metals,China
+5493857373293592,diners-club-us-ca,Krona,SEK,Miscellaneous manufacturing industries,Sweden
+06049722328085062,maestro,Naira,NGN,Military/Government/Technical,Nigeria
+4041594149635,visa,Rupiah,IDR,n/a,Indonesia
+4905176737204731,switch,Dram,AMD,n/a,Armenia
+4903456216661276,switch,Ruble,BYR,Clothing/Shoe/Accessory Stores,Belarus
+4913108444539943,visa-electron,Naira,NGN,Real Estate,Nigeria
+50184328133629400,maestro,Yen,JPY,n/a,Japan
+3574988245119561,jcb,Dollar,ZWL,Computer Software: Prepackaged Software,Zimbabwe
+5378468873260949,mastercard,Rupiah,IDR,Semiconductors,Indonesia
+5602252725615957,china-unionpay,Rand,ZAR,Transportation Services,South Africa
+560221220762253136,china-unionpay,Dollar,USD,Real Estate Investment Trusts,United States
+6759099083917486,switch,Yuan Renminbi,CNY,Telecommunications Equipment,China
+3542987511624444,jcb,Yuan Renminbi,CNY,Oil Refining/Marketing,China
+5602217928425850,bankcard,Euro,EUR,Restaurants,France
+4903545909114617,switch,Yuan Renminbi,CNY,Oil & Gas Production,China
+201572590208166,diners-club-enroute,Peso,CLP,Industrial Specialties,Chile
+676793268741237888,solo,Euro,EUR,n/a,Ireland
+201856230391213,diners-club-enroute,Peso,MXN,Life Insurance,Mexico
+3541939033597906,jcb,Hryvnia,UAH,Engineering & Construction,Ukraine
+3585168200957084,jcb,Peso,PHP,Finance: Consumer Services,Philippines
+6304997856940737562,maestro,Yuan Renminbi,CNY,Restaurants,China
+3583907203564096,jcb,Rupiah,IDR,Real Estate Investment Trusts,Indonesia
+5130604037792224,mastercard,Euro,EUR,Investment Bankers/Brokers/Service,Greece
+201744241705938,diners-club-enroute,Euro,EUR,Telecommunications Equipment,Latvia
+4508478726716621,visa-electron,Euro,EUR,Major Banks,France
+36873402068652,diners-club-international,Shekel,ILS,Integrated oil Companies,Israel
+3585154821769926,jcb,Zloty,PLN,Major Banks,Poland
+5599055817878655,diners-club-us-ca,Krona,SEK,Oilfield Services/Equipment,Sweden
+6763259051955447,maestro,Euro,EUR,Home Furnishings,France
+6762581843354708652,maestro,Yuan Renminbi,CNY,n/a,China
+6763592670782076013,maestro,Dollar,USD,EDP Services,United States
+30062858129939,diners-club-carte-blanche,Euro,EUR,Electric Utilities: Central,Cyprus
+4913844512226019,visa-electron,Zloty,PLN,Major Chemicals,Poland
+3531445611065516,jcb,Rupiah,IDR,Marine Transportation,Indonesia
+5483844326094246,mastercard,Hryvnia,UAH,Hospital/Nursing Management,Ukraine
+4844533442587780,visa-electron,Zloty,PLN,Services-Misc. Amusement & Recreation,Poland
+3577685582217043,jcb,Euro,EUR,Major Pharmaceuticals,Portugal
+201702930432719,diners-club-enroute,Ringgit,MYR,Miscellaneous,Malaysia
+374288818441189,americanexpress,Euro,EUR,Real Estate Investment Trusts,Germany
+5602245521105736,china-unionpay,Dram,AMD,Building Products,Armenia
+67714315235896683,laser,Euro,EUR,Electronic Components,Netherlands
+3579451716210190,jcb,Rupiah,IDR,Major Pharmaceuticals,Indonesia
+3552095264343811,jcb,Peso,PHP,Office Equipment/Supplies/Services,Philippines
+6759038358684943197,switch,Zloty,PLN,Department/Specialty Retail Stores,Poland
+6391456184495016,instapayment,Euro,EUR,Semiconductors,Ireland
+3528204084873079,jcb,Peso,PHP,Restaurants,Philippines
+6709224564343828609,laser,Naira,NGN,Real Estate Investment Trusts,Nigeria
+30543761115008,diners-club-carte-blanche,Yuan Renminbi,CNY,Services-Misc. Amusement & Recreation,China
+3589921362463911,jcb,Krone,NOK,Packaged Foods,Norway
+3578143889287698,jcb,Dollar,USD,Semiconductors,United States
+201922244536100,diners-club-enroute,Real,BRL,Oil & Gas Production,Brazil
+503822235025874372,maestro,Yen,JPY,n/a,Japan
+6304169341777780,laser,Euro,EUR,Real Estate Investment Trusts,Finland
+4941554475658,visa,Rupiah,IDR,Major Banks,Indonesia
+3563448115163416,jcb,Koruna,CZK,n/a,Czech Republic
+3529671154137602,jcb,Peso,COP,Property-Casualty Insurers,Colombia
+3584386394742598,jcb,Denar,MKD,Computer peripheral equipment,Macedonia
+3579523249659844,jcb,Yuan Renminbi,CNY,Computer Software: Prepackaged Software,China
+374288639166726,americanexpress,Koruna,CZK,Industrial Machinery/Components,Czech Republic
+630486989520816589,laser,Euro,EUR,Radio And Television Broadcasting And Communications Equipment,France
+5602214061761075508,china-unionpay,Ruble,RUB,n/a,Russia
+5602251955258504,bankcard,Yuan Renminbi,CNY,Major Pharmaceuticals,China
+6381962870960108,instapayment,Yuan Renminbi,CNY,EDP Services,China
+6759599646679365652,switch,Rupiah,IDR,Semiconductors,Indonesia
+5157865711851663,mastercard,Peso,PHP,Oil & Gas Production,Philippines
+3566874210224430,jcb,Peso,CUP,Automotive Aftermarket,Cuba
+5100136344691621,mastercard,Euro,EUR,n/a,France
+3562045724413801,jcb,Tenge,KZT,Electrical Products,Kazakhstan
+3580442357946876,jcb,Yuan Renminbi,CNY,Mining & Quarrying of Nonmetallic Minerals (No Fuels),China
+502066437584900518,maestro,Yuan Renminbi,CNY,EDP Services,China
+3540855694626647,jcb,Krona,SEK,Major Banks,Sweden
+5592463887276122,mastercard,Hryvnia,UAH,n/a,Ukraine
+374283056028962,americanexpress,Yen,JPY,Major Pharmaceuticals,Japan
+3582745446793721,jcb,Yen,JPY,Integrated oil Companies,Japan
+36419198558843,diners-club-international,Yuan Renminbi,CNY,Investment Managers,China
+3569066907608879,jcb,Euro,EUR,Oil & Gas Production,Finland
+374283715009163,americanexpress,Dollar,CAD,Major Pharmaceuticals,Canada
+5406392822358990,mastercard,Tugrik,MNT,n/a,Mongolia
+503854158949343434,maestro,Yuan Renminbi,CNY,Telecommunications Equipment,China
+6334131264367159,solo,Rupiah,IDR,Real Estate Investment Trusts,Indonesia
+3585174275047371,jcb,Som,UZS,Computer Manufacturing,Uzbekistan
+5100136954927695,mastercard,Rupiah,IDR,n/a,Indonesia
+5100170929306719,mastercard,Yuan Renminbi,CNY,Hospital/Nursing Management,China
+3541416708464480,jcb,Peso,PHP,Computer Software: Prepackaged Software,Philippines
+5602248069634604,china-unionpay,Ruble,RUB,n/a,Russia
+491101495779654780,switch,Peso,PHP,Industrial Machinery/Components,Philippines
+3536114927860664,jcb,Yuan Renminbi,CNY,Semiconductors,China
+201608074198430,diners-club-enroute,Peso,MXN,Business Services,Mexico
+201527654545994,diners-club-enroute,Euro,EUR,Professional Services,Portugal
+3572712356431629,jcb,Rand,ZAR,Industrial Machinery/Components,South Africa
+3546149208587667,jcb,Real,BRL,Television Services,Brazil
+3554760076458523,jcb,Peso,CUP,Computer Software: Prepackaged Software,Cuba
+30460951512573,diners-club-carte-blanche,Yuan Renminbi,CNY,Industrial Specialties,China
+3531556129253376,jcb,Krone,DKK,Hotels/Resorts,Faroe Islands
+201997060956210,diners-club-enroute,Rupiah,IDR,Telecommunications Equipment,Indonesia
+3529935664693200,jcb,Tenge,KZT,Semiconductors,Kazakhstan
+3557438186851930,jcb,Yuan Renminbi,CNY,Real Estate Investment Trusts,China
+3580727810790709,jcb,Sol,PEN,Oil & Gas Production,Peru
+6304640957097572,maestro,Yuan Renminbi,CNY,Major Pharmaceuticals,China
+3573653349328770,jcb,Dollar,USD,Professional Services,United States
+3585046189609605,jcb,Pound,SYP,Major Pharmaceuticals,Syria
+633346004262904801,switch,Rupiah,IDR,n/a,Indonesia
+4017954864393,visa,Dollar,CAD,Major Banks,Canada
+5499848615685269,diners-club-us-ca,Rand,ZAR,Other Consumer Services,South Africa
+3535865034996581,jcb,Rupiah,IDR,n/a,Indonesia
+5413881539981178,diners-club-us-ca,Peso,COP,Restaurants,Colombia
+340100811193579,americanexpress,Guarani,PYG,n/a,Paraguay
+493641487009002115,switch,Euro,EUR,Auto Parts:O.E.M.,France
+560221599050187290,china-unionpay,Lek,ALL,Automotive Aftermarket,Albania
+374283418313904,americanexpress,Sol,PEN,Construction/Ag Equipment/Trucks,Peru
+0604552015960116514,maestro,Peso,PHP,Business Services,Philippines
+490373585851965097,switch,Yuan Renminbi,CNY,n/a,China
+3558246854715678,jcb,Dollar,USD,n/a,United States
+3545688414337319,jcb,Sol,PEN,Textiles,Peru
+3570010473471566,jcb,Rial,IRR,Commercial Banks,Iran
+5291035147899069,mastercard,Rupiah,IDR,Savings Institutions,Indonesia
+4405986673103738,visa-electron,Sol,PEN,Oilfield Services/Equipment,Peru
+5365218113843243,mastercard,Hryvnia,UAH,Major Banks,Ukraine
+3585984808348884,jcb,Franc,XAF,Major Pharmaceuticals,Cameroon
+3582460367860554,jcb,Real,BRL,Industrial Machinery/Components,Brazil
+3540986617355830,jcb,Peso,ARS,Other Consumer Services,Argentina
+56022481533369284,china-unionpay,Pound,GBP,Telecommunications Equipment,United Kingdom
+4982015660850,visa,Ruble,RUB,Business Services,Russia
+3587299092093239,jcb,Yen,JPY,Containers/Packaging,Japan
+3576976480704237,jcb,Ruble,RUB,Computer Software: Prepackaged Software,Russia
+4451162682996867,visa,Euro,EUR,n/a,Portugal
+5526238635567506,mastercard,Franc,CDF,Plastic Products,Democratic Republic of the Congo
+3538563091278699,jcb,Dollar,NZD,Telecommunications Equipment,New Zealand
+4026921170837289,visa-electron,Hryvnia,UAH,Other Pharmaceuticals,Ukraine
+3545786241109347,jcb,Zloty,PLN,Air Freight/Delivery Services,Poland
+3586778640011547,jcb,Real,BRL,Property-Casualty Insurers,Brazil
+677134027381438297,laser,Euro,EUR,Containers/Packaging,Belgium
+3575505694458321,jcb,Yuan Renminbi,CNY,n/a,China
+3583528918110791,jcb,Baht,THB,Medical/Dental Instruments,Thailand
+6706286085153566,laser,Dinar,IQD,Consumer Electronics/Appliances,Iraq
+5602237390297439,china-unionpay,Peso,MXN,n/a,Mexico
+3588226645396750,jcb,Naira,NGN,Major Banks,Nigeria
+374288146872097,americanexpress,Peso,COP,n/a,Colombia
+67632371919789479,maestro,Ruble,RUB,Newspapers/Magazines,Russia
+67610317640628508,maestro,Manat,AZN,Medical/Dental Instruments,Azerbaijan
+0604080931679907251,maestro,Yuan Renminbi,CNY,Containers/Packaging,China
+3560645322419381,jcb,Rupee,LKR,Major Banks,Sri Lanka
+5602232086317740,bankcard,Baht,THB,n/a,Thailand
+3537424076702180,jcb,Yuan Renminbi,CNY,Radio And Television Broadcasting And Communications Equipment,China
+5602257964401852,bankcard,Euro,EUR,"Computer Software: Programming, Data Processing",Portugal
+560221076487866481,china-unionpay,Rupiah,IDR,n/a,Indonesia
+5048373246741239,mastercard,Peso,COP,Metal Fabrications,Colombia
+5893476074678098172,maestro,Yuan Renminbi,CNY,n/a,China
+3555219828962679,jcb,Yuan Renminbi,CNY,Biotechnology: Electromedical & Electrotherapeutic Apparatus,China
+3538091267553257,jcb,Krona,SEK,Major Pharmaceuticals,Sweden
+5048374102909035,mastercard,Ruble,RUB,Other Consumer Services,Russia
+4936495128298570,switch,Peso,PHP,n/a,Philippines
+3585120933352661,jcb,Yuan Renminbi,CNY,Other Consumer Services,China
+3588675072760724,jcb,Yuan Renminbi,CNY,n/a,China
+5100142211697360,mastercard,Rupiah,IDR,Major Pharmaceuticals,Indonesia
+3571862925990257,jcb,Ringgit,MYR,Finance/Investors Services,Malaysia
+6706442616305096039,laser,Zloty,PLN,Major Pharmaceuticals,Poland
+3549840590178019,jcb,Denar,MKD,Home Furnishings,Macedonia
+3581514239773840,jcb,Yuan Renminbi,CNY,Real Estate Investment Trusts,China
+4026308208700012,visa-electron,Dollar,USD,n/a,United States
+3531534173068198,jcb,Rupiah,IDR,Railroads,Indonesia
+5602238711847225,bankcard,Peso,COP,Oil & Gas Production,Colombia
+5602256887277050,china-unionpay,Sol,PEN,n/a,Peru
+6706144535819807304,laser,Yuan Renminbi,CNY,Auto Parts:O.E.M.,China
+3532186422252146,jcb,Rial,SAR,Electronic Components,Saudi Arabia
+3586084796001204,jcb,Yuan Renminbi,CNY,Biotechnology: Electromedical & Electrotherapeutic Apparatus,China
+3567770427353468,jcb,Peso,CLP,Restaurants,Chile
+67636172150989471,maestro,Dollar,USD,Specialty Chemicals,United States
+3571464817064356,jcb,Peso,PHP,Specialty Chemicals,Philippines
+490553262670243070,switch,Rupiah,IDR,Real Estate,Indonesia
+3546759915813717,jcb,Yuan Renminbi,CNY,Electric Utilities: Central,China
+5610425766941116703,china-unionpay,Real,BRL,n/a,Brazil
+5572553290381479,mastercard,Krona,SEK,n/a,Sweden
+3588120344900949,jcb,Lev,BGN,Business Services,Bulgaria
+3562954313500110,jcb,Rupiah,IDR,Fluid Controls,Indonesia
+5100174703960907,mastercard,Ruble,RUB,Newspapers/Magazines,Russia
+3539625454610633,jcb,Ruble,RUB,"Computer Software: Programming, Data Processing",Russia
+4917861846915063,visa-electron,Euro,EUR,Industrial Machinery/Components,France
+201781618495628,diners-club-enroute,Baht,THB,n/a,Thailand
+4911399783836170,switch,Ruble,RUB,Biotechnology: Electromedical & Electrotherapeutic Apparatus,Russia
+3531974349762979,jcb,Yuan Renminbi,CNY,Computer Software: Prepackaged Software,China
+5602252736065168,bankcard,Krone,NOK,n/a,Norway
+676251320859555554,maestro,Shekel,ILS,Major Banks,Palestinian Territory
+3572831251918512,jcb,Rupiah,IDR,n/a,Indonesia
+3557651028413996,jcb,Won,KRW,n/a,South Korea
+3572569939016198,jcb,Yuan Renminbi,CNY,n/a,China
+3548627918979470,jcb,Manat,AZN,n/a,Azerbaijan
+372301396405377,americanexpress,Litas,LTL,n/a,Lithuania
+3555625623509467,jcb,Euro,EUR,Major Pharmaceuticals,France
+3554479803259282,jcb,Yuan Renminbi,CNY,n/a,China
+6762901918904404,maestro,Koruna,CZK,Major Banks,Czech Republic
+3547856673001037,jcb,Yuan Renminbi,CNY,Business Services,China
+4917310987220164,visa-electron,Yuan Renminbi,CNY,Electric Utilities: Central,China
+5478372882686913,mastercard,Euro,EUR,Precious Metals,Portugal
+341597802710254,americanexpress,Shekel,ILS,n/a,Palestinian Territory
+4175004522206104,visa-electron,Shilling,TZS,Computer peripheral equipment,Tanzania
+5100144950831408,mastercard,Colon,CRC,Property-Casualty Insurers,Costa Rica
+6304633583071264683,maestro,Peso,PHP,Business Services,Philippines
+3567574736683288,jcb,Dollar,CAD,Broadcasting,Canada
+342431685624581,americanexpress,Rupiah,IDR,Finance: Consumer Services,Indonesia
+5641823304207477545,switch,Sol,PEN,Medical/Dental Instruments,Peru
+3558860797379697,jcb,Rupiah,IDR,Major Banks,Indonesia
+3581936448545935,jcb,Yuan Renminbi,CNY,Major Banks,China
+3540985438465315,jcb,Euro,EUR,Electrical Products,Portugal
+3530896092037187,jcb,Shilling,TZS,Business Services,Tanzania
+3545219636610133,jcb,Yuan Renminbi,CNY,Oil & Gas Production,China
+5002353950045765,mastercard,Somoni,TJS,Electric Utilities: Central,Tajikistan
+30080382547343,diners-club-carte-blanche,Rupiah,IDR,Hospital/Nursing Management,Indonesia
+201826940311868,diners-club-enroute,Lempira,HNL,n/a,Honduras
+3552375937175992,jcb,Yuan Renminbi,CNY,n/a,China
+490308435474892205,switch,Yen,JPY,Telecommunications Equipment,Japan
+501819861301988633,maestro,Rupiah,IDR,Major Banks,Indonesia
+5602214816820862,china-unionpay,Real,BRL,Oil & Gas Production,Brazil
+3560230295589559,jcb,Rupiah,IDR,Medical/Dental Instruments,Indonesia
+3534375392743378,jcb,Peso,PHP,Beverages (Production/Distribution),Philippines
+3543755330676575,jcb,Rupiah,IDR,Real Estate Investment Trusts,Indonesia
+3537525155333406,jcb,Rupiah,IDR,Major Banks,Indonesia
+5010122130886657,mastercard,Lev,BGN,EDP Services,Bulgaria
+5610358182056542,china-unionpay,Yuan Renminbi,CNY,Industrial Specialties,China
+201490777473976,diners-club-enroute,Koruna,CZK,Department/Specialty Retail Stores,Czech Republic
+5602227226498731,china-unionpay,Yuan Renminbi,CNY,Biotechnology: Commercial Physical & Biological Resarch,China
+3552266296855722,jcb,Real,BRL,Semiconductors,Brazil
+4041598965794304,visa,Euro,EUR,Industrial Specialties,Greece
+374283807894001,americanexpress,Peso,COP,Business Services,Colombia
+6304464385601789088,laser,Yuan Renminbi,CNY,Business Services,China
+348548424319605,americanexpress,Lek,ALL,Semiconductors,Albania
+201721794593887,diners-club-enroute,Rupiah,IDR,Real Estate Investment Trusts,Indonesia
+30590267658155,diners-club-carte-blanche,Real,BRL,Forest Products,Brazil
+5561521222728581,mastercard,Zloty,PLN,Natural Gas Distribution,Poland
+5100174782364872,mastercard,Shekel,ILS,n/a,Israel
+337941398684430,americanexpress,Peso,PHP,Professional Services,Philippines
+564182770629298335,switch,Hryvnia,UAH,Property-Casualty Insurers,Ukraine
+4041377834646585,visa,Euro,EUR,Life Insurance,France
+3580231907350006,jcb,Rial,IRR,Metal Fabrications,Iran
+3575198289674922,jcb,Yuan Renminbi,CNY,Real Estate,China
+3561687680257176,jcb,Rupiah,IDR,Natural Gas Distribution,Indonesia
+3545256973174745,jcb,Pound,GBP,EDP Services,United Kingdom
+5641820460693737,switch,Pound,SYP,Major Pharmaceuticals,Syria
+372301643729017,americanexpress,Yuan Renminbi,CNY,n/a,China
+3561948744865630,jcb,Euro,EUR,n/a,France
+56022293374031125,china-unionpay,Yuan Renminbi,CNY,Industrial Machinery/Components,China
+3566309267937873,jcb,Rupiah,IDR,Major Banks,Indonesia
+3563574221130187,jcb,Kwacha,MWK,Computer Software: Prepackaged Software,Malawi
+374283372788679,americanexpress,Peso,MXN,Real Estate Investment Trusts,Mexico
+30527224486130,diners-club-carte-blanche,Yuan Renminbi,CNY,Telecommunications Equipment,China
+6304713543712358,laser,Dollar,USD,Other Consumer Services,United States
+5002357733594734,mastercard,Shilling,TZS,Major Pharmaceuticals,Tanzania
+4913901119612924,visa-electron,Rupiah,IDR,Electrical Products,Indonesia
+30426670021345,diners-club-carte-blanche,Euro,EUR,Home Furnishings,France
+5007660127475419,mastercard,Yuan Renminbi,CNY,Major Pharmaceuticals,China
+3546718695097958,jcb,Peso,PHP,Real Estate Investment Trusts,Philippines
+3562455172153496,jcb,Euro,EUR,n/a,Greece
+372301645239213,americanexpress,Peso,ARS,Steel/Iron Ore,Argentina
+201835635164516,diners-club-enroute,Rupiah,IDR,Semiconductors,Indonesia
+5100171930111569,mastercard,Dollar,USD,Shoe Manufacturing,United States
+3570804451949266,jcb,Dong,VND,Computer Communications Equipment,Vietnam
+6759599850933350,maestro,Euro,EUR,Major Pharmaceuticals,Saint Pierre and Miquelon
+4041374944456732,visa,Taka,BDT,Major Banks,Bangladesh
+30198898843889,diners-club-carte-blanche,Yuan Renminbi,CNY,Major Pharmaceuticals,China
+3578089426490701,jcb,Som,UZS,Biotechnology: Biological Products (No Diagnostic Substances),Uzbekistan
+675975456864387299,maestro,Pound,GBP,Business Services,United Kingdom
+3552251143647548,jcb,Tenge,KZT,Real Estate,Kazakhstan
+3575509752479799,jcb,Peso,PHP,Industrial Machinery/Components,Philippines
+5007662121169444,mastercard,Peso,ARS,Real Estate Investment Trusts,Argentina
+3541390221305662,jcb,Euro,EUR,Electric Utilities: Central,Finland
+5474877678502995,diners-club-us-ca,Somoni,TJS,Property-Casualty Insurers,Tajikistan
+348266111219638,americanexpress,Real,BRL,n/a,Brazil
+5602223529062316,china-unionpay,Euro,EUR,Computer Software: Prepackaged Software,Portugal
+3550717823023830,jcb,Yuan Renminbi,CNY,Building Products,China
+5602215989805724237,china-unionpay,Dollar,USD,Agricultural Chemicals,Ecuador
+3540050010739924,jcb,Denar,MKD,"Computer Software: Programming, Data Processing",Macedonia
+3573929643003818,jcb,Peso,PHP,Computer Software: Prepackaged Software,Philippines
+3582109238838329,jcb,Dollar,NZD,Major Banks,New Zealand
+677143995266361728,laser,Rupiah,IDR,Real Estate Investment Trusts,Indonesia
+560225882893496292,china-unionpay,Peso,ARS,Military/Government/Technical,Argentina
+337941901172352,americanexpress,Won,KPW,Investment Managers,North Korea
+3588783627809713,jcb,Real,BRL,Miscellaneous manufacturing industries,Brazil
+5216918655301424,mastercard,Rupiah,IDR,Textiles,Indonesia
+3584955802807167,jcb,Baht,THB,Industrial Machinery/Components,Thailand
+4041371265612,visa,Yuan Renminbi,CNY,Investment Bankers/Brokers/Service,China
+3580769726595012,jcb,Shilling,TZS,Mining & Quarrying of Nonmetallic Minerals (No Fuels),Tanzania
+36672011943960,diners-club-international,Ruble,RUB,n/a,Russia
+3566144713491062,jcb,Yuan Renminbi,CNY,Industrial Machinery/Components,China
+3570005640448125,jcb,Rupiah,IDR,Department/Specialty Retail Stores,Indonesia
+3531727352450654,jcb,Krona,ISK,Medical Electronics,Iceland
+3546999625614464,jcb,Yuan Renminbi,CNY,Beverages (Production/Distribution),China
+4041377183488,visa,Zloty,PLN,Military/Government/Technical,Poland
+4175002154945064,visa-electron,Yuan Renminbi,CNY,Major Banks,China
+3577774750623578,jcb,Rial,IRR,Services-Misc. Amusement & Recreation,Iran
+201984474811603,diners-club-enroute,Dollar,CAD,Major Pharmaceuticals,Canada
+3569212087490379,jcb,Yuan Renminbi,CNY,Major Chemicals,China
+5519071798751719,mastercard,Yuan Renminbi,CNY,Real Estate,China
+5597164200417840,mastercard,Euro,EUR,Major Banks,France
+5210738188211049,mastercard,Peso,PHP,n/a,Philippines
+5163063887781698,mastercard,Peso,CUP,n/a,Cuba
+3529765071217529,jcb,Yuan Renminbi,CNY,EDP Services,China
+560222033079799793,china-unionpay,Rupiah,IDR,Major Pharmaceuticals,Indonesia
+5277524386736825,mastercard,Rupiah,IDR,Natural Gas Distribution,Indonesia
+3583006584744078,jcb,Euro,EUR,Major Banks,Finland
+56022110847901488,china-unionpay,Real,BRL,Real Estate,Brazil
+4971217248796,visa,Rupiah,IDR,n/a,Indonesia
+3576261332358494,jcb,Peso,COP,n/a,Colombia
+3533200379257542,jcb,Real,BRL,Major Pharmaceuticals,Brazil
+6763818794772805,maestro,Yuan Renminbi,CNY,Clothing/Shoe/Accessory Stores,China
+5557443343295018,diners-club-us-ca,Peso,MXN,Restaurants,Mexico
+30221662980115,diners-club-carte-blanche,Yuan Renminbi,CNY,n/a,China
+3564192683447244,jcb,Euro,EUR,EDP Services,Portugal
+5602213820158194,china-unionpay,Rupee,MUR,Major Banks,Mauritius
+374283605098136,americanexpress,Krona,SEK,Mining & Quarrying of Nonmetallic Minerals (No Fuels),Sweden
+3533740956462189,jcb,Euro,EUR,n/a,Greece
+4197159667642416,visa,Quetzal,GTQ,Major Banks,Guatemala
+4905278800345407,switch,Euro,EUR,Major Banks,Portugal
+5558716671596589,diners-club-us-ca,Kyat,MMK,Property-Casualty Insurers,Myanmar
+3543807592219238,jcb,Peso,PHP,n/a,Philippines
+6331100129454791293,switch,Euro,EUR,Biotechnology: Laboratory Analytical Instruments,Spain
+3530628091119249,jcb,Yuan Renminbi,CNY,Major Banks,China
+3533587983024155,jcb,Dinar,RSD,n/a,Serbia
+6334685437092473,solo,Zloty,PLN,Real Estate Investment Trusts,Poland
+201972704393161,diners-club-enroute,Afghani,AFN,Business Services,Afghanistan
+5151796436619208,mastercard,Peso,ARS,Beverages (Production/Distribution),Argentina
+3554744988202963,jcb,Dram,AMD,Biotechnology: Biological Products (No Diagnostic Substances),Armenia
+3584175279768350,jcb,Peso,PHP,Publishing,Philippines
+6759894121174994804,maestro,Yuan Renminbi,CNY,Medical Specialities,China
+5602234756812208,bankcard,Yuan Renminbi,CNY,Meat/Poultry/Fish,China
+3563027859474831,jcb,Rupiah,IDR,Savings Institutions,Indonesia
+6371047970185210,instapayment,Yuan Renminbi,CNY,Packaged Foods,China
+3556484032460667,jcb,Yuan Renminbi,CNY,Real Estate,China
+5602233697363412,china-unionpay,Naira,NGN,Other Consumer Services,Nigeria
+5172579729384093,mastercard,Zloty,PLN,Real Estate Investment Trusts,Poland
+6386979684353770,instapayment,Lek,ALL,Real Estate Investment Trusts,Albania
+3585645591018048,jcb,Euro,EUR,Accident &Health Insurance,Portugal
+5602228879630679,bankcard,Dollar,NAD,Major Banks,Namibia
+3584337167533334,jcb,Kip,LAK,Package Goods/Cosmetics,Laos
+5602222385088654,china-unionpay,Franc,XOF,n/a,Burkina Faso
+5602221167556482,bankcard,Yuan Renminbi,CNY,Electric Utilities: Central,China
+3539004628728806,jcb,Rupiah,IDR,Mining & Quarrying of Nonmetallic Minerals (No Fuels),Indonesia
+56022212124965275,china-unionpay,Ruble,BYR,Medical/Dental Instruments,Belarus
+201733373160293,diners-club-enroute,Lek,ALL,Property-Casualty Insurers,Albania
+5602246583527429,bankcard,Rupiah,IDR,Railroads,Indonesia
+4508589552164437,visa-electron,Zloty,PLN,Newspapers/Magazines,Poland
+5222677251093635,mastercard,Peso,PHP,Oil & Gas Production,Philippines
+30126347697192,diners-club-carte-blanche,Rupiah,IDR,n/a,Indonesia
+4936347621124144,switch,Real,BRL,Natural Gas Distribution,Brazil
+36743071556123,diners-club-international,Peso,PHP,Medical Specialities,Philippines
+3528656500030537,jcb,Rupiah,IDR,Commercial Banks,Indonesia
+5610425490452935,bankcard,Euro,EUR,n/a,Portugal
+36546455040907,diners-club-international,Kina,PGK,Commercial Banks,Papua New Guinea
+3556983687728344,jcb,Yuan Renminbi,CNY,n/a,China
+372798898624209,americanexpress,Dollar,JMD,Real Estate Investment Trusts,Jamaica
+3575517776912190,jcb,Rupiah,IDR,Specialty Chemicals,Indonesia
+50385800807134112,maestro,Baht,THB,Electric Utilities: Central,Thailand
+5610008167265390,bankcard,Yuan Renminbi,CNY,Major Pharmaceuticals,China
+3536285569890233,jcb,Yuan Renminbi,CNY,Steel/Iron Ore,China
+201490276923430,diners-club-enroute,Rial,YER,EDP Services,Yemen
+5048378800533302,mastercard,Yuan Renminbi,CNY,Computer Communications Equipment,China
+3530690452997712,jcb,Euro,EUR,Major Pharmaceuticals,France
+5602217409808384,bankcard,Rial,YER,Major Banks,Yemen
+375084917602147,americanexpress,Euro,EUR,n/a,France
+5048376213646034,mastercard,Dong,VND,Major Pharmaceuticals,Vietnam
+3543619699680737,jcb,Leu,MDL,Real Estate Investment Trusts,Moldova
+6379090401264545,instapayment,Real,BRL,n/a,Brazil
+6398432616195089,instapayment,Euro,EUR,Major Pharmaceuticals,Andorra
+676763894302210380,solo,Yuan Renminbi,CNY,Real Estate,China
+5602249215770102,china-unionpay,Real,BRL,Telecommunications Equipment,Brazil
+3576292782275656,jcb,Sol,PEN,Real Estate Investment Trusts,Peru
+3574283812168542,jcb,Peso,PHP,Major Pharmaceuticals,Philippines
+6709262048551730,laser,Peso,PHP,Precious Metals,Philippines
+3548449727564199,jcb,Shekel,ILS,Oil & Gas Production,Israel
+3539932140999184,jcb,Yen,JPY,Diversified Commercial Services,Japan
+5100179340406958,mastercard,Dollar,USD,n/a,United States
+503890610223743479,maestro,Peso,PHP,Metal Fabrications,Philippines
+3567736134629060,jcb,Euro,EUR,Major Pharmaceuticals,France
+3565535291043004,jcb,Krona,SEK,Major Banks,Sweden
+4175008654098833,visa-electron,Rupiah,IDR,Containers/Packaging,Indonesia
+5010120695777121,mastercard,Rial,YER,n/a,Yemen
+5602246973889439,bankcard,Krona,SEK,Business Services,Sweden
+3559499536529483,jcb,Yen,JPY,Real Estate Investment Trusts,Japan
+5007665785131006,mastercard,Rupiah,IDR,n/a,Indonesia
+3565427620096186,jcb,Ruble,BYR,n/a,Belarus
+3540284208894197,jcb,Zloty,PLN,Building Products,Poland
+560225225454327698,china-unionpay,Franc,BIF,n/a,Burundi
+5010129407936263,mastercard,Zloty,PLN,Major Chemicals,Poland
+3568346821147746,jcb,Birr,ETB,Medical/Dental Instruments,Ethiopia
+3550900424449949,jcb,Zloty,PLN,Electrical Products,Poland
+3547479648202299,jcb,Peso,PHP,Farming/Seeds/Milling,Philippines
+6763080115781011,maestro,Won,KPW,n/a,North Korea
+5007665035083270,mastercard,Yuan Renminbi,CNY,Business Services,China
+5038667270447346,maestro,Balboa,PAB,Restaurants,Panama
+5427782732640849,diners-club-us-ca,Rupiah,IDR,Major Banks,Indonesia
+372301101168229,americanexpress,Euro,EUR,Building Products,Spain
+3538757413725706,jcb,Yuan Renminbi,CNY,n/a,China
+3574561946481513,jcb,Yuan Renminbi,CNY,Biotechnology: Laboratory Analytical Instruments,China
+50388367709027643,maestro,Yuan Renminbi,CNY,n/a,China
+5227671870679051,mastercard,Peso,PHP,Auto Parts:O.E.M.,Philippines
+560221684172900182,china-unionpay,Krona,SEK,Medical/Dental Instruments,Sweden
+201935063545614,diners-club-enroute,Peso,PHP,Major Banks,Philippines
+4911780176094911029,switch,Peso,MXN,Office Equipment/Supplies/Services,Mexico
+3586646011614522,jcb,Rial,YER,Consumer Electronics/Appliances,Yemen
+3531508928406424,jcb,Yuan Renminbi,CNY,Real Estate Investment Trusts,China
+3573838748945767,jcb,Rupiah,IDR,Food Distributors,Indonesia
+5436464446962749,diners-club-us-ca,Krone,NOK,n/a,Norway
+4026620639459863,visa-electron,Yuan Renminbi,CNY,Major Pharmaceuticals,China
+63049899791468420,maestro,Euro,EUR,n/a,Finland
+6304949200379366396,maestro,Ruble,RUB,EDP Services,Russia
+3583204203358772,jcb,Boliviano,BOB,n/a,Bolivia
+3560398668773389,jcb,Euro,EUR,Real Estate Investment Trusts,Kosovo
+3559804868941885,jcb,Franc,CDF,n/a,Democratic Republic of the Congo
+201699303414383,diners-club-enroute,Hryvnia,UAH,EDP Services,Ukraine
+3568536479691462,jcb,Ruble,RUB,Major Pharmaceuticals,Russia
+3551869706982209,jcb,Euro,EUR,Metal Fabrications,Finland
+3548090678012158,jcb,Dollar,USD,Telecommunications Equipment,United States
+201958824613620,diners-club-enroute,Yuan Renminbi,CNY,n/a,China
+3583080637738676,jcb,Yuan Renminbi,CNY,Computer Software: Prepackaged Software,China
+4913330771669750,visa-electron,Euro,EUR,Railroads,France
+67716089096850430,laser,Dollar,CAD,n/a,Canada
+3543965485000980,jcb,Yuan Renminbi,CNY,n/a,China
+3556886830459149,jcb,Ruble,RUB,n/a,Russia
+5893542114351403321,maestro,Ruble,RUB,Major Chemicals,Russia
+3548050823479603,jcb,Ruble,RUB,Major Pharmaceuticals,Russia
+3531582429557522,jcb,Peso,ARS,Engineering & Construction,Argentina
+3588274481284581,jcb,Yuan Renminbi,CNY,n/a,China
+3585935812129934,jcb,Rupiah,IDR,Major Banks,Indonesia
+3555946755187181,jcb,Rupiah,IDR,n/a,Indonesia
+30575752980255,diners-club-carte-blanche,Rupiah,IDR,Biotechnology: Biological Products (No Diagnostic Substances),Indonesia
+201556499433330,diners-club-enroute,Yuan Renminbi,CNY,Real Estate Investment Trusts,China
+30087792122567,diners-club-carte-blanche,Peso,ARS,Real Estate Investment Trusts,Argentina
+5893254163166095,maestro,Yuan Renminbi,CNY,n/a,China
+3570346385348124,jcb,Yuan Renminbi,CNY,n/a,China
+3568019020789226,jcb,Lek,ALL,Computer Software: Prepackaged Software,Albania
+5108750891147076,mastercard,Hryvnia,UAH,Computer peripheral equipment,Ukraine
+3587572294753663,jcb,Dollar,USD,Steel/Iron Ore,United States
+3570765159473356,jcb,Denar,MKD,n/a,Macedonia
+3550487024088764,jcb,Baht,THB,Movies/Entertainment,Thailand
+4508960034985873,visa-electron,Euro,EUR,Life Insurance,Greece
+3577635275511723,jcb,Real,BRL,Real Estate Investment Trusts,Brazil
+6333512691615135940,switch,Peso,COP,Major Banks,Colombia
+3573753482914533,jcb,Zloty,PLN,Real Estate,Poland
+3559466658436920,jcb,Rupiah,IDR,Major Banks,Indonesia
+36741739918396,diners-club-international,Euro,EUR,n/a,Malta
+3569815791461427,jcb,Euro,EUR,Major Banks,Portugal
+3558087192372735,jcb,Rupiah,IDR,n/a,Indonesia
+4026100005149836,visa-electron,Rupiah,IDR,Real Estate Investment Trusts,Indonesia
+3586870283814046,jcb,Dollar,USD,EDP Services,United States
+201610611368476,diners-club-enroute,Peso,UYU,Business Services,Uruguay
+3577002046451640,jcb,Real,BRL,Semiconductors,Brazil
+3556196449293206,jcb,Ruble,RUB,Semiconductors,Russia
+490543837410118691,switch,Yuan Renminbi,CNY,Savings Institutions,China
+3529045746079640,jcb,Rupiah,IDR,Medical Specialities,Indonesia
+503837067607977585,maestro,Euro,EUR,n/a,Cyprus
+3576784116534915,jcb,Rupee,LKR,Broadcasting,Sri Lanka
+675908794946756939,switch,Yuan Renminbi,CNY,Major Pharmaceuticals,China
+5018357386133915,maestro,Shekel,ILS,Major Banks,Israel
+3572849589691239,jcb,Euro,EUR,Biotechnology: Electromedical & Electrotherapeutic Apparatus,France
+3577069266282112,jcb,Rupiah,IDR,Computer Software: Prepackaged Software,Indonesia
+3573692489961503,jcb,Dollar,XCD,Aerospace,Grenada
+633110434231981677,switch,Peso,PHP,Telecommunications Equipment,Philippines
+30107381148821,diners-club-carte-blanche,Dollar,JMD,Recreational Products/Toys,Jamaica
+3551199765119943,jcb,Yuan Renminbi,CNY,Medical/Dental Instruments,China
+5018895051245971930,maestro,Rupiah,IDR,Major Chemicals,Indonesia
+5585415327925766,diners-club-us-ca,Euro,EUR,Transportation Services,Germany
+3567110789468226,jcb,Zloty,PLN,n/a,Poland
+3551605145110527,jcb,Yuan Renminbi,CNY,Packaged Foods,China
+4017952246451004,visa,Peso,PHP,Other Specialty Stores,Philippines
+3577079156375819,jcb,Dollar,USD,n/a,East Timor
+5641824408012673120,switch,Yuan Renminbi,CNY,Biotechnology: Biological Products (No Diagnostic Substances),China
+30256012443927,diners-club-carte-blanche,Yuan Renminbi,CNY,n/a,China
+3570315952678544,jcb,Peso,DOP,Major Banks,Dominican Republic
+201722739266035,diners-club-enroute,Euro,EUR,EDP Services,Latvia
+3552508058157775,jcb,Yuan Renminbi,CNY,Major Pharmaceuticals,China
+3538322171923702,jcb,Peso,ARS,Industrial Specialties,Argentina
+3576592024964615,jcb,Yuan Renminbi,CNY,n/a,China
+3583306879982882,jcb,Rupiah,IDR,Services-Misc. Amusement & Recreation,Indonesia
+3554503313989078,jcb,Sol,PEN,Property-Casualty Insurers,Peru
+3549484043696218,jcb,Dollar,USD,Tools/Hardware,American Samoa
+5452972048776365,mastercard,Hryvnia,UAH,Telecommunications Equipment,Ukraine
+6304508036716787,laser,Peso,CLP,n/a,Chile
+5602229226689285,bankcard,Yuan Renminbi,CNY,Real Estate Investment Trusts,China
+3588901279720828,jcb,Euro,EUR,Major Banks,Finland
+3543943623210472,jcb,Zloty,PLN,Natural Gas Distribution,Poland
+3562156582173492,jcb,Euro,EUR,n/a,France
+3588080764835571,jcb,Rupiah,IDR,n/a,Indonesia
+3566556202681350,jcb,Rupiah,IDR,n/a,Indonesia
+4883124017364,visa,Krona,SEK,Hospital/Nursing Management,Sweden
+3528782840451348,jcb,Balboa,PAB,Major Chemicals,Panama
+3555216582896671,jcb,Ruble,RUB,Major Banks,Russia
+3566856707848698,jcb,Peso,COP,Major Pharmaceuticals,Colombia
+676176479879836840,maestro,Zloty,PLN,Precious Metals,Poland
+201783548987880,diners-club-enroute,Rupiah,IDR,Industrial Machinery/Components,Indonesia
+4508913141719701,visa-electron,Afghani,AFN,Real Estate Investment Trusts,Afghanistan
+345445432210624,americanexpress,Rupiah,IDR,Medical Specialities,Indonesia
+3532624241069382,jcb,Peso,PHP,"Computer Software: Programming, Data Processing",Philippines
+3536752026897226,jcb,Dollar,USD,Other Specialty Stores,United States
+3576446826884093,jcb,Manat,TMT,Property-Casualty Insurers,Turkmenistan
+56022510961815077,china-unionpay,Dollar,USD,Biotechnology: Commercial Physical & Biological Resarch,United States
+67599822584386810,maestro,Rupiah,IDR,Oil & Gas Production,Indonesia
+5602233203571219,bankcard,Euro,EUR,Television Services,Portugal
+5490099413839596,diners-club-us-ca,Yuan Renminbi,CNY,Real Estate Investment Trusts,China
+5002357893663402,mastercard,Manat,AZN,n/a,Azerbaijan
+3556666589888924,jcb,Rupiah,IDR,Medical/Dental Instruments,Indonesia
+3570360185002864,jcb,Rupiah,IDR,Packaged Foods,Indonesia
+5893037866977300,maestro,Koruna,CZK,Beverages (Production/Distribution),Czech Republic
+490392936208486609,switch,Rupiah,IDR,Commercial Banks,Indonesia
+3544320219829073,jcb,Yuan Renminbi,CNY,Major Pharmaceuticals,China
+5329686168862406,mastercard,Lempira,HNL,Major Pharmaceuticals,Honduras
+5010128311871806,mastercard,Rupiah,IDR,Computer Communications Equipment,Indonesia
+670996064247505060,laser,Peso,PHP,Professional Services,Philippines
+4913829245139472,visa-electron,Baht,THB,Coal Mining,Thailand
+3539042021615337,jcb,Rupiah,IDR,Precious Metals,Indonesia
+5218609345046580,mastercard,Afghani,AFN,Major Chemicals,Afghanistan
+6383167946161479,instapayment,Yuan Renminbi,CNY,n/a,China
+5573574623333317,mastercard,Krona,SEK,EDP Services,Sweden
+6304886213386413759,laser,Peso,MXN,n/a,Mexico
+4936681641335422570,switch,Dirham,MAD,Hospital/Nursing Management,Morocco
+3580454810661232,jcb,Zloty,PLN,Investment Managers,Poland
+30350295891868,diners-club-carte-blanche,Dinar,RSD,Electronic Components,Serbia
+4903648873486435299,switch,Yuan Renminbi,CNY,Real Estate Investment Trusts,China
+3534051904015411,jcb,Franc,XOF,Major Banks,Ivory Coast
+5100175851853406,mastercard,Litas,LTL,Banks,Lithuania
+3567709942710471,jcb,Real,BRL,Diversified Commercial Services,Brazil
+5476006021250742,mastercard,Dollar,USD,n/a,United States
+337941172333170,americanexpress,Dram,AMD,Packaged Foods,Armenia
+6759661374563053,switch,Dinar,KWD,Other Consumer Services,Kuwait
+337941613757953,americanexpress,Lev,BGN,n/a,Bulgaria
+501831871575920711,maestro,Ruble,RUB,n/a,Russia
+3533114542193262,jcb,Yuan Renminbi,CNY,Paper,China
+589398813747290052,maestro,Sol,PEN,Real Estate Investment Trusts,Peru
+201517248731978,diners-club-enroute,Ruble,RUB,Major Pharmaceuticals,Russia
+3557311718998422,jcb,Rupiah,IDR,Natural Gas Distribution,Indonesia
+337941397470260,americanexpress,Zloty,PLN,Real Estate,Poland
+36714875200630,diners-club-international,Guarani,PYG,Life Insurance,Paraguay
+5641821669405527,switch,Krona,SEK,n/a,Sweden
+3535038598418885,jcb,Peso,MXN,Other Consumer Services,Mexico
+56103011157030045,china-unionpay,Denar,MKD,n/a,Macedonia
+5100142731662035,mastercard,Yuan Renminbi,CNY,Oil/Gas Transmission,China
+3555963770053462,jcb,Som,UZS,Oil & Gas Production,Uzbekistan
+3571666496889735,jcb,Rupiah,IDR,Oil/Gas Transmission,Indonesia
+3566470115667755,jcb,Peso,PHP,n/a,Philippines
+5010128729106274,mastercard,Rupiah,IDR,n/a,Indonesia
+5610230627012028,bankcard,Rupiah,IDR,n/a,Indonesia
+6378881762340184,instapayment,Krona,SEK,Computer Software: Prepackaged Software,Sweden
+36396801314915,diners-club-international,Yuan Renminbi,CNY,Transportation Services,China
+3564646597542275,jcb,Hryvnia,UAH,Real Estate Investment Trusts,Ukraine
+6759715276250960173,maestro,Zloty,PLN,EDP Services,Poland
+3551472514310877,jcb,Rupiah,IDR,Military/Government/Technical,Indonesia
+0604908261233856921,maestro,Dollar,CAD,Electrical Products,Canada
+4913839898457048,visa-electron,Franc,XOF,Marine Transportation,Niger
+3548406079238541,jcb,Pound,GBP,Movies/Entertainment,United Kingdom
+4041377768861671,visa,Hryvnia,UAH,n/a,Ukraine
+633464897332233218,solo,Yuan Renminbi,CNY,n/a,China
+4508826099640135,visa-electron,Sol,PEN,n/a,Peru
+3574355920097241,jcb,Dram,AMD,Oil & Gas Production,Armenia
+675971257748785763,switch,Quetzal,GTQ,Air Freight/Delivery Services,Guatemala
+3562759491612821,jcb,Rupiah,IDR,n/a,Indonesia
+30323520193970,diners-club-carte-blanche,Peso,DOP,Real Estate Investment Trusts,Dominican Republic
+5100147671375498,mastercard,Shilling,TZS,Restaurants,Tanzania
+5602248350909426,china-unionpay,Yuan Renminbi,CNY,n/a,China
+5893250783054091,maestro,Dollar,USD,n/a,United States
+560224359275241183,china-unionpay,Dollar,USD,Power Generation,United States
+3536373675857625,jcb,Ruble,RUB,Industrial Machinery/Components,Russia
+3541880504887303,jcb,Yuan Renminbi,CNY,Major Chemicals,China
+5100179184733079,mastercard,Yuan Renminbi,CNY,Consumer Electronics/Video Chains,China
+3588244509870703,jcb,Ruble,RUB,n/a,Russia
+5602257538023265,china-unionpay,Euro,EUR,Major Banks,Portugal
+3558302123876492,jcb,Euro,EUR,Auto Parts:O.E.M.,France
+3552783115485069,jcb,Dong,VND,Package Goods/Cosmetics,Vietnam
+4017952782057892,visa,Koruna,CZK,Specialty Chemicals,Czech Republic
+3586665670398045,jcb,Dollar,CAD,n/a,Canada
+30248182252998,diners-club-carte-blanche,Peso,ARS,Telecommunications Equipment,Argentina
+3589585275017161,jcb,Euro,EUR,Industrial Machinery/Components,France
+67627909771060377,maestro,Koruna,CZK,n/a,Czech Republic
+4175000041262040,visa-electron,Dollar,USD,Oilfield Services/Equipment,United States
+3557848346335824,jcb,Euro,EUR,Oil & Gas Production,France
+3529713124539234,jcb,Bolivar,VEF,Major Banks,Venezuela
+5602212014150605791,china-unionpay,Tenge,KZT,Major Banks,Kazakhstan
+5893958055128738,maestro,Dirham,MAD,Restaurants,Morocco
+3588551312886894,jcb,Rupiah,IDR,Major Banks,Indonesia
+3540755199496340,jcb,Kina,PGK,Biotechnology: Electromedical & Electrotherapeutic Apparatus,Papua New Guinea
+3574054226939046,jcb,Franc,XAF,n/a,Central African Republic
+3540922434394884,jcb,Krona,SEK,EDP Services,Sweden
+5010127555615531,mastercard,Krona,SEK,n/a,Sweden
+3544609433207391,jcb,Peso,PHP,n/a,Philippines
+6333866925414624163,switch,Yuan Renminbi,CNY,Industrial Machinery/Components,China
+30001785514771,diners-club-carte-blanche,Yuan Renminbi,CNY,Auto Parts:O.E.M.,China
+3566938187755591,jcb,Pound,SDG,Beverages (Production/Distribution),Sudan
+201719316513375,diners-club-enroute,Krona,SEK,Newspapers/Magazines,Sweden
+633458369888767674,solo,Yuan Renminbi,CNY,Real Estate,China
+201425692761451,diners-club-enroute,Euro,EUR,Natural Gas Distribution,Greece
+4017950322316620,visa,Euro,EUR,n/a,France
+3536223173807780,jcb,Ruble,RUB,n/a,Russia
+5171329865035955,mastercard,Euro,EUR,Packaged Foods,Greece
+5610425456181024409,china-unionpay,Dinar,RSD,n/a,Serbia
+5007665208618167,mastercard,Ariary,MGA,Major Banks,Madagascar
+060482507538209110,maestro,Peso,DOP,EDP Services,Dominican Republic
+3543711490642170,jcb,Dinar,RSD,Life Insurance,Serbia
+3567364940419236,jcb,Rupiah,IDR,Industrial Machinery/Components,Indonesia
+675991490599442442,switch,Ruble,RUB,n/a,Russia
+5432627583260259,diners-club-us-ca,Peso,PHP,Electrical Products,Philippines
+4026843615491953,visa-electron,Rupiah,IDR,n/a,Indonesia
+3573691663198999,jcb,Afghani,AFN,Major Pharmaceuticals,Afghanistan
+5523013948851779,mastercard,Yuan Renminbi,CNY,Major Banks,China
+5100142137006845,mastercard,Real,BRL,Biotechnology: Biological Products (No Diagnostic Substances),Brazil
+30296848076863,diners-club-carte-blanche,Naira,NGN,Semiconductors,Nigeria
+4905646084486461,switch,Yuan Renminbi,CNY,Electronic Components,China
+5610327480348836,china-unionpay,Krona,SEK,Industrial Machinery/Components,Sweden
+6709977484337191,laser,Yuan Renminbi,CNY,n/a,China
+201838919320457,diners-club-enroute,Rupiah,IDR,Other Specialty Stores,Indonesia
+3545882814108723,jcb,Zloty,PLN,EDP Services,Poland
+6334266452993777191,solo,Shekel,ILS,Diversified Commercial Services,Israel
+490306134367254829,switch,Zloty,PLN,Investment Bankers/Brokers/Service,Poland
+3566610313781565,jcb,Euro,EUR,Computer Software: Prepackaged Software,Portugal
+3547229216474295,jcb,Euro,EUR,Biotechnology: Biological Products (No Diagnostic Substances),Portugal
+3563447006095406,jcb,Ruble,RUB,Medical/Dental Instruments,Russia
+3559255997945257,jcb,Rupiah,IDR,Property-Casualty Insurers,Indonesia
+3528342773029759,jcb,Rupiah,IDR,Telecommunications Equipment,Indonesia
+6383274672695751,instapayment,Peso,PHP,n/a,Philippines
+4405160755454803,visa-electron,Euro,EUR,EDP Services,Greece
+3577900576410425,jcb,Rupee,MUR,Major Banks,Mauritius
+3569335418827215,jcb,Peso,PHP,EDP Services,Philippines
+5048375512338772,mastercard,Yuan Renminbi,CNY,n/a,China
+6380272994002220,instapayment,Dollar,CAD,Major Pharmaceuticals,Canada
+3588309128191201,jcb,Naira,NGN,Major Chemicals,Nigeria
+5641828022184780,switch,Rupiah,IDR,Electronic Components,Indonesia
+3566004565246321,jcb,Rupiah,IDR,Marine Transportation,Indonesia
+3560775995078154,jcb,Real,BRL,Professional Services,Brazil
+564182352626985212,switch,Zloty,PLN,Major Banks,Poland
+3541280826839340,jcb,Yuan Renminbi,CNY,n/a,China
+5641822264065328,switch,Yuan Renminbi,CNY,Savings Institutions,China
+3559007676226685,jcb,Rial,YER,Life Insurance,Yemen
+56022452887610870,china-unionpay,Euro,EUR,n/a,Spain
+5602213160433660,bankcard,Guarani,PYG,n/a,Paraguay
+50206480105428750,maestro,Zloty,PLN,n/a,Poland
+30070496477149,diners-club-carte-blanche,Peso,COP,Auto Parts:O.E.M.,Colombia
+372301145124030,americanexpress,Yuan Renminbi,CNY,Precious Metals,China
+3576932067293060,jcb,Hryvnia,UAH,Business Services,Ukraine
+3576589495787434,jcb,Zloty,PLN,n/a,Poland
+3534762004653220,jcb,Ruble,RUB,n/a,Russia
+3547641869925763,jcb,Euro,EUR,Major Banks,Greece
+3576544805338634,jcb,Euro,EUR,Other Consumer Services,Austria
+201899481355669,diners-club-enroute,Yuan Renminbi,CNY,Oil & Gas Production,China
+3537436406694812,jcb,Zloty,PLN,Real Estate Investment Trusts,Poland
+3555019527081247,jcb,Peso,PHP,Major Banks,Philippines
+5100172796950124,mastercard,Koruna,CZK,n/a,Czech Republic
+6304389068215085513,laser,Yuan Renminbi,CNY,Semiconductors,China
+3549433271725389,jcb,Yuan Renminbi,CNY,Television Services,China
+4911326308568046,switch,Euro,EUR,Semiconductors,Portugal
+5048377968972278,mastercard,Euro,EUR,n/a,Portugal
+3535042406711770,jcb,Yuan Renminbi,CNY,Real Estate,China
+3570156309963498,jcb,Peso,PHP,Computer Software: Prepackaged Software,Philippines
+3554584579058659,jcb,Yen,JPY,Real Estate Investment Trusts,Japan
+3569689943796844,jcb,Peso,PHP,Publishing,Philippines
+3577344507704103,jcb,Hryvnia,UAH,Medical/Dental Instruments,Ukraine
+5100130113678547,mastercard,Kuna,HRK,Major Chemicals,Croatia
+3529585446756385,jcb,Real,BRL,Auto Parts:O.E.M.,Brazil
+3578940503927629,jcb,Zloty,PLN,Industrial Machinery/Components,Poland
+5100136877886374,mastercard,Peso,CLP,Food Distributors,Chile
+3532365919140200,jcb,Tenge,KZT,n/a,Kazakhstan
+3574535222935731,jcb,Yuan Renminbi,CNY,Life Insurance,China
+3546958031250016,jcb,Krona,SEK,Major Chemicals,Sweden
+5100177554495220,mastercard,Yuan Renminbi,CNY,n/a,China
+5048376941217082,mastercard,Euro,EUR,n/a,France
+30349166267737,diners-club-carte-blanche,Yen,JPY,Computer Software: Prepackaged Software,Japan
+374622199427260,americanexpress,Real,BRL,n/a,Brazil
+676701679607726734,solo,Rupee,PKR,Major Banks,Pakistan
+30236139278851,diners-club-carte-blanche,Sol,PEN,Oil & Gas Production,Peru
+3561263361791022,jcb,Dinar,KWD,Major Pharmaceuticals,Kuwait
+3577071402433914,jcb,Rupiah,IDR,Major Pharmaceuticals,Indonesia
+4508513238131172,visa-electron,Rupiah,IDR,Industrial Machinery/Components,Indonesia
+5511908810471024,diners-club-us-ca,Krona,SEK,Commercial Banks,Sweden
+3579059417324317,jcb,Tugrik,MNT,Environmental Services,Mongolia
+56022309442759362,china-unionpay,Zloty,PLN,n/a,Poland
+4041371904035068,visa,Real,BRL,Property-Casualty Insurers,Brazil
+30106178864392,diners-club-carte-blanche,Real,BRL,Major Pharmaceuticals,Brazil
+3557758351896307,jcb,Ringgit,MYR,Multi-Sector Companies,Malaysia
+4041593430101,visa,Rupiah,IDR,n/a,Indonesia
+3533934723581096,jcb,Shilling,KES,EDP Services,Kenya
+30450183415729,diners-club-carte-blanche,Dram,AMD,n/a,Armenia
+4405721420777900,visa-electron,Forint,HUF,n/a,Hungary
+3555811761772444,jcb,Lempira,HNL,Professional Services,Honduras
+3536155481048691,jcb,Peso,CLP,Business Services,Chile
+3543289252655193,jcb,Rupiah,IDR,Industrial Machinery/Components,Indonesia
+060482615969750484,maestro,Peso,ARS,n/a,Argentina
+0604797215840352041,maestro,Koruna,CZK,Other Specialty Stores,Czech Republic
+3545174202235007,jcb,Ruble,RUB,n/a,Russia
+4017954813812,visa,Euro,EUR,Hotels/Resorts,France
+4917089050866026,visa-electron,Euro,EUR,Major Pharmaceuticals,Portugal
+201597371350432,diners-club-enroute,Ariary,MGA,Newspapers/Magazines,Madagascar
+5492200978321792,mastercard,Peso,COP,Computer Communications Equipment,Colombia
+5602215963846733,bankcard,Ruble,RUB,Major Banks,Russia
+3536964932060936,jcb,Yuan Renminbi,CNY,Television Services,China
+30508016603090,diners-club-carte-blanche,Peso,PHP,Major Banks,Philippines
+4508822909682938,visa-electron,Rupiah,IDR,Real Estate,Indonesia
+3560583445362420,jcb,Dollar,CAD,n/a,Canada
+6759933788649988,maestro,Yuan Renminbi,CNY,"Computer Software: Programming, Data Processing",China
+4936568699325589772,switch,Euro,EUR,n/a,Estonia
+5610220317871700,bankcard,Peso,ARS,Steel/Iron Ore,Argentina
+5108757484383703,mastercard,Dollar,ZWL,Major Banks,Zimbabwe
+6759356698482193,switch,Lempira,HNL,Biotechnology: In Vitro & In Vivo Diagnostic Substances,Honduras
+3535610713429318,jcb,Yuan Renminbi,CNY,Computer Software: Prepackaged Software,China
+4844574302617291,visa-electron,Dollar,CAD,Property-Casualty Insurers,Canada
+3544398460916898,jcb,Peso,ARS,Industrial Machinery/Components,Argentina
+3536490012028973,jcb,Dollar,USD,Clothing/Shoe/Accessory Stores,United States
+5309962476622590,mastercard,Afghani,AFN,n/a,Afghanistan
+5108753212044543,mastercard,Peso,ARS,Industrial Machinery/Components,Argentina
+3553183213696304,jcb,Shilling,UGX,Major Pharmaceuticals,Uganda
+3536480047077251,jcb,Yuan Renminbi,CNY,Auto Manufacturing,China
+3538895862054069,jcb,Yuan Renminbi,CNY,n/a,China
+3559856180615639,jcb,Ruble,RUB,Steel/Iron Ore,Russia
+201920436535351,diners-club-enroute,Yen,JPY,n/a,Japan
+4175002438248012,visa-electron,Peso,PHP,Restaurants,Philippines
+3571213394082517,jcb,Yuan Renminbi,CNY,Major Pharmaceuticals,China
+5002357851870346,mastercard,Rupee,PKR,n/a,Pakistan
+3539169748953111,jcb,Yuan Renminbi,CNY,Major Pharmaceuticals,China
+3538623462414578,jcb,Krona,SEK,n/a,Sweden
+4844486166244528,visa-electron,Yuan Renminbi,CNY,Military/Government/Technical,China
+5301312576458867,mastercard,Cordoba,NIO,Real Estate Investment Trusts,Nicaragua
+0604814101900532,maestro,Yuan Renminbi,CNY,Major Pharmaceuticals,China
+3552132291143953,jcb,Dollar,SBD,Investment Managers,Solomon Islands
+3546205342262011,jcb,Peso,PHP,Industrial Machinery/Components,Philippines
+56109168631865505,china-unionpay,Rupiah,IDR,Life Insurance,Indonesia
+6709317700829103,laser,Euro,EUR,Oil & Gas Production,Portugal
+374288086367892,americanexpress,Real,BRL,n/a,Brazil
+3556247403278913,jcb,Yuan Renminbi,CNY,"Computer Software: Programming, Data Processing",China
+3550391632937844,jcb,Dram,AMD,Major Banks,Armenia
+3588117741372466,jcb,Ariary,MGA,Major Banks,Madagascar
+3576794678308392,jcb,Yuan Renminbi,CNY,Radio And Television Broadcasting And Communications Equipment,China
+201451846147306,diners-club-enroute,Yuan Renminbi,CNY,n/a,China
+491133237418331673,switch,Peso,ARS,Major Pharmaceuticals,Argentina
+675978586942852893,switch,Dollar,CAD,n/a,Canada
+3582134181704724,jcb,Peso,COP,Marine Transportation,Colombia
+337941064075665,americanexpress,Ruble,RUB,Finance: Consumer Services,Russia
+6304943699848330,maestro,Rupiah,IDR,Containers/Packaging,Indonesia
+4041378504191167,visa,Peso,MXN,Semiconductors,Mexico
+5602230936502180,china-unionpay,Euro,EUR,Computer Software: Prepackaged Software,France
+3531929278987641,jcb,Balboa,PAB,Major Banks,Panama
+3531414646351226,jcb,Baht,THB,n/a,Thailand
+5442449069901019,diners-club-us-ca,Euro,EUR,Movies/Entertainment,France
+3553418442881404,jcb,Peso,PHP,n/a,Philippines
+376960370529977,americanexpress,Pound,EGP,n/a,Egypt
+30190557239178,diners-club-carte-blanche,Peso,ARS,n/a,Argentina
+201638563305931,diners-club-enroute,Rupiah,IDR,Major Banks,Indonesia
+3533701402544061,jcb,Koruna,CZK,n/a,Czech Republic
+3557454287447601,jcb,Krona,SEK,Major Chemicals,Sweden
+060416579946568602,maestro,Rupiah,IDR,Home Furnishings,Indonesia
+4017951396654,visa,Som,UZS,n/a,Uzbekistan
+3579810393502569,jcb,Peso,PHP,Life Insurance,Philippines
+3538191129160158,jcb,Peso,ARS,Industrial Machinery/Components,Argentina

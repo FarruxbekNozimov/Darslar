@@ -1,0 +1,6 @@
+f = open('FILES/T3.txt', 'r')
+f1 = open('FILES/T4.txt', 'w')
+text = f.read()
+f1.write(text)
+f.close()
+f1.close()

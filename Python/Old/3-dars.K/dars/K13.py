@@ -1,0 +1,1 @@
+# print(input("Enter a word: ")[1::2])a = input("=> ")def palindrome(smth):    res = ''    for i in reversed(smth):        res += i    if res == smth:        return True    else:        return Falsej = palindrome(a)if j == True:    print('Palindrome')else:    print('Not Palindrome')

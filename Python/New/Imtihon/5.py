@@ -1,0 +1,1 @@
+def find_step(num1):    try:        num, a = int(num1), 0        while str(num)[::-1] != str(num):            num += int(str(num)[::-1])            a += 1        return f"{num1} => {a}, {num}"    except:        return "To'g'ri kiriting !!!"print(find_step(input(": ")))

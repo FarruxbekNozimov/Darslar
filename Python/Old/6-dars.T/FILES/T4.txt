@@ -1,0 +1,4 @@
+Welcome to Python!
+Practice makes perfect.
+Now, you can practice everything you need to know to become a Python Master!
+everythings
