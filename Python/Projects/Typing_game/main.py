@@ -177,19 +177,18 @@ class Typing(QWidget):
         self.Btn_Shift.clicked.connect(lambda : self.run(self.Btn_Shift))
         self.Btn_Space.clicked.connect(lambda : self.run(self.Btn_Space))
         self.type_text = ''
-        self.choose_text = ''
+        self.choose_text = 'Salom'
+        self.words = ''
         # self.label_word()
         # self.Show_word.setText(f"<center>{self.choose_text}</center>")
 
     def run(self, name_btn):
         self.label_word()
-        # print(self.choose_text)
-        if name_btn.text() == '↵   Enter':
-            self.lineEdit.setText('')
 
     def label_word(self):
-        with open('words.txt') as f:
+        with open('words.txt', 'r') as f:
             self.words = f.read().split()
+            print(self.words)
 
 
 app = QApplication(sys.argv)
